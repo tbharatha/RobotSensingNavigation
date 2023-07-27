@@ -1,4 +1,4 @@
-# RobotSensingNavigation
+#Robot Sensing and Navigation Project Overview
 
 Project Overview:
 Lane detection is a crucial component of autonomous driving systems, enabling vehicles to accurately identify and track lanes on roads. The goal of this project is to implement a robust and efficient lane detection algorithm using classical computer vision methods. By utilizing techniques such as edge detection, Hough transforms, and perspective transformations, we intend to achieve accurate lane detection under various driving conditions.
